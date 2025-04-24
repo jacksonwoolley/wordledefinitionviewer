@@ -1346,6 +1346,7 @@
     heeds: "to pay attention; to give consideration or attention to : mind",
     heels: "to furnish (a boot, a shoe, etc.) with a solid attachment forming the part of the sole that is under the back of the foot : to attach a heel to; to supply especially with money or information; to exert pressure on, propel, or strike (someone or something) with the back part of the foot",
     heirs: "inherit",
+    heist: "a robbery or holdup; especially : a robbery of a large amount of money or valuables",
     helix: "something spiral in form: such as; an ornamental volute; a coil formed by winding wire around a uniform tube",
     hello: "an expression or gesture of greeting used interjectionally in greeting, in answering the telephone, or to express surprise",
     helms: "to direct (a ship) with a lever or wheel that controls the rudder : to direct (a ship) with or as if with a helm : steer; direct, control",
