@@ -1616,6 +1616,7 @@
     looms: "to come into sight in enlarged or distorted and indistinct form often as a result of atmospheric conditions; to appear in an impressively great or exaggerated form; to take shape as an impending occurrence",
     loons: "lout, idler; boy; an eccentric person",
     loops: "to make or form a loop; to move in loops or in an arc; to execute a loop in an airplane",
+    loopy: "crazy, silly; having or resembling a loop; having a loop or loops",
     loose: "not rigidly fastened or securely attached; having worked partly free from attachments; having relative freedom of movement",
     lords: "one having power and authority over others:; a ruler by hereditary right or preeminence to whom service and obedience are due; one of whom a fee or estate is held in feudal tenure",
     loser: "a person or thing that loses especially consistently; a person who is incompetent or unable to succeed; also : something doomed to fail or disappoint",
