@@ -2449,6 +2449,7 @@
     sinus: "a narrow elongated tract extending from a focus of suppuration and serving for the discharge of pus",    
     siren: "any of a group of female and partly human creatures in Greek mythology that lured mariners to destruction by their singing; a woman who sings with enchanting sweetness; temptress",
     sires: "father; male ancestor : forefather; author, originator",
+    sitch: "short for situation, what's the sitch?",
     sites: "the spatial location of an actual or planned structure or set of structures (such as a building, town, or monuments); a space of ground occupied or to be occupied by a building; the place, scene, or point of an occurrence or event",
     sixes: "a number that is one more than five; the sixth in a set or series; something having six units or members: such as",
     sixth: "one that is number six in a series; one of six equal parts of something; a musical interval embracing six diatonic degrees",
