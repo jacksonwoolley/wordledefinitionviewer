@@ -1599,7 +1599,7 @@
     lived: "having a life of a specified kind or length",
     liver: "a large very vascular glandular organ of vertebrates that secretes bile and causes important changes in many of the substances contained in the blood (as by converting sugars into glycogen which it stores up until required and by forming urea); any of various large compound glands associated with the digestive tract of invertebrate animals and probably concerned with the secretion of digestive enzymes; a determinant of the quality or temper of a man",
     lives: "",
-    livid: "discolored by bruising : black-and-blue; ashen, pallid; reddish",
+    livid: "very angry : enraged. discolored by bruising : black-and-blue; ashen, pallid; reddish",
     llama: "any of a genus (Lama) of wild or domesticated, long-necked, South American ruminant mammals related to the camels but smaller and without a hump; especially : a domesticated llama (L. glama) descended from the guanaco and used especially in the Andes as a pack animal and a source of wool",
     loads: "to put a load in or on (a vehicle, animal, etc.) often used with up; to place (someone or something) in or on a means of conveyance; to encumber or oppress (someone or something) with something heavy, laborious, or disheartening : burden",
     loamy: "a mixture (as for plastering) composed chiefly of moistened clay; a coarse molding sand used in founding; soil; specifically : a soil consisting of a friable mixture of varying proportions of clay, silt, and sand",
