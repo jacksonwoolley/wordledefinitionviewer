@@ -767,6 +767,7 @@
     dirge: "a song or hymn of grief or lamentation; especially : one intended to accompany funeral or memorial rites; a slow, solemn, and mournful piece of music; something (such as a poem) that has the qualities of a dirge",
     dirty: "not clean or pure; likely to befoul or defile with a soiling substance (such as mud, dust, or grime); contaminated with infecting organisms",
     discs: "the seemingly flat figure of a celestial body; discus; any of various rounded and flattened animal anatomical structures; especially : intervertebral disc",
+    disco: "a nightclub for dancing to recorded music; a style of popular music featuring strong bass rhythms and melodies with a heavy beat; a dance performed to disco music",
     disks: "the seemingly flat figure of a celestial body; discus; any of various rounded and flattened animal anatomical structures; especially : intervertebral disc",
     ditch: "a long narrow excavation dug in the earth (as for drainage)",
     ditto: "as before or aforesaid : in the same manner used to indicate that a previous statement also applies to something or someone else",
