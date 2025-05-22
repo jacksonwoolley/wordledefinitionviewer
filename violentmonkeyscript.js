@@ -2442,6 +2442,7 @@
     silky: "silken; silken; smooth or fluid in motion",
     sills: "a horizontal piece (such as a timber) that forms the lowest member or one of the lowest members of a framework or supporting structure: such as; the horizontal member at the base of a window; the threshold of a door",
     silly: "exhibiting or indicative of a lack of common sense or sound judgment; weak in intellect; playfully lighthearted and amusing",
+    silty: "of, relating to, or composed of silt; having a silt content of 10 percent or more",
     since: "from a definite past time until now; before the present time : ago; after a time in the past : subsequently",
     sinew: "tendon; especially : one dressed for use as a cord or thread; nerve; solid resilient strength : power",
     singe: "to burn superficially or lightly : scorch; especially : to remove the hair, down, or fuzz from usually by passing rapidly over a flame",
