@@ -1262,6 +1262,7 @@
     greet: "to address with expression of kind wishes upon meeting or arrival; to meet or react to in a specified manner; to occur as a response to",
     greys: "to become gray; age; also : to contain an increasing percentage of older people; to make gray",
     grief: "deep and poignant distress caused by or as if by bereavement; a cause of such suffering; trouble, annoyance",
+    grift: "to obtain (money) illicitly (as in a confidence game); to engage in petty swindling",
     grill: "to broil on a grill; also : to fry or toast on a griddle; to torment as if by broiling; to question intensely",
     grime: "soot, smut, or dirt adhering to or embedded in a surface; broadly : accumulated dirtiness and disorder",
     grimy: "full of or covered with grime : dirty",
